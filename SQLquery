@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS congressdb.congress_data (
+`id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ID',
+`code` text NOT NULL COMMENT 'Legislation code',
+`congress` text NOT NULL COMMENT 'Congress',
+`bill` text NOT NULL COMMENT 'Legislation name',
+`sponsor` text NOT NULL COMMENT 'Sponsor',
+`committees` text NOT NULL COMMENT 'Committees',
+`cosponsor` text NOT NULL COMMENT 'Cosponsors',
+`status` text NOT NULL COMMENT 'Status',
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
