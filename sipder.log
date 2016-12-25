@@ -1,0 +1,616 @@
+[2016-12-25 16:38:57] start page 1
+[2016-12-25 16:38:57] Congress Sipder is working to get information from Congress...
+[2016-12-25 16:38:57] Getting the page number, please wait...
+[2016-12-25 16:38:59] Get page number 396,183
+[2016-12-25 16:38:59] now scraping page  1
+['H.R.6534', '114th Congress (2015-2016)', 'MadeInAmerica.gov Act', 'Rep. Meng, Grace [D-NY-6]', 'House - Energy and Commerce', '12/20/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6534/cosponsors?r=1&amp;overview=closed#tabs']
+[2016-12-25 16:39:01] Now getting page  1 find one bill  H.R.6534 Sponsored by  Rep. Meng, Grace [D-NY-6]
+Bill saved
+['H.R.6533', '114th Congress (2015-2016)', 'Protect American Democracy Act of 2016', 'Rep. Engel, Eliot L. [D-NY-16]', 'House - Foreign Affairs, Judiciary, Financial Services', '12/20/2016 Referred to House Financial Services', 'https://www.congress.gov/bill/114th-congress/house-bill/6533/cosponsors?r=2&amp;overview=closed#tabs']
+[2016-12-25 16:39:01] Now getting page  1 find one bill  H.R.6533 Sponsored by  Rep. Engel, Eliot L. [D-NY-16]
+Bill saved
+['H.R.6532', '114th Congress (2015-2016)', 'Liberian Refugee Immigration Fairness Act of 2016', 'Rep. Ellison, Keith [D-MN-5]', 'House - Judiciary', '12/20/2016 Referred to the House Committee on the Judiciary.', 'https://www.congress.gov/bill/114th-congress/house-bill/6532/cosponsors?r=3&amp;overview=closed#tabs']
+[2016-12-25 16:39:02] Now getting page  1 find one bill  H.R.6532 Sponsored by  Rep. Ellison, Keith [D-MN-5]
+Bill saved
+['H.R.6531', '114th Congress (2015-2016)', 'National Aeronautics and Space Administration Transition Authorization Act of 2016', 'Rep. Smith, Lamar [R-TX-21]', 'House - Science, Space, and Technology', '12/20/2016 Referred to the House Committee on Science, Space, and Technology.', 'https://www.congress.gov/bill/114th-congress/house-bill/6531/cosponsors?r=4&amp;overview=closed#tabs']
+[2016-12-25 16:39:02] Now getting page  1 find one bill  H.R.6531 Sponsored by  Rep. Smith, Lamar [R-TX-21]
+Bill saved
+['H.R.6530', '114th Congress (2015-2016)', 'No Funding for Sanctuary Campuses Act', 'Rep. Hunter, Duncan D. [R-CA-50]', 'House - Education and the Workforce', '12/16/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6530/cosponsors?r=5&amp;overview=closed#tabs']
+[2016-12-25 16:39:02] Now getting page  1 find one bill  H.R.6530 Sponsored by  Rep. Hunter, Duncan D. [R-CA-50]
+Bill saved
+['H.R.6529', '114th Congress (2015-2016)', 'Chugach Region Lands Study Act', 'Rep. Young, Don [R-AK-At Large]', 'House - Natural Resources', '12/19/2016 Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.', 'https://www.congress.gov/bill/114th-congress/house-bill/6529/cosponsors?r=6&amp;overview=closed#tabs']
+[2016-12-25 16:39:02] Now getting page  1 find one bill  H.R.6529 Sponsored by  Rep. Young, Don [R-AK-At Large]
+Bill saved
+['H.R.6528', '114th Congress (2015-2016)', 'Litigation Relief for Forest Management Projects Act', 'Rep. Zinke, Ryan K. [R-MT-At Large]', 'House - Natural Resources, Agriculture', '12/19/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6528/cosponsors?r=7&amp;overview=closed#tabs']
+[2016-12-25 16:39:03] Now getting page  1 find one bill  H.R.6528 Sponsored by  Rep. Zinke, Ryan K. [R-MT-At Large]
+Bill saved
+['H.R.6527', '114th Congress (2015-2016)', 'SADD Act of 2016', 'Rep. Fincher, Stephen Lee [R-TN-8]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6527/cosponsors?r=8&amp;overview=closed#tabs']
+[2016-12-25 16:39:03] Now getting page  1 find one bill  H.R.6527 Sponsored by  Rep. Fincher, Stephen Lee [R-TN-8]
+Bill saved
+['H.R.6526', '114th Congress (2015-2016)', 'To eliminate the discretion of the Secretary of Homeland Security regarding the definition of the term "official purpose" as it applies to drivers\' licenses and personal identification cards, and for other purposes.', 'Rep. Emmer, Tom [R-MN-6]', 'House - Oversight and Government Reform', '12/12/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6526/cosponsors?r=9&amp;overview=closed#tabs']
+[2016-12-25 16:39:03] Now getting page  1 find one bill  H.R.6526 Sponsored by  Rep. Emmer, Tom [R-MN-6]
+[2016-12-25 16:39:03] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'official purpose" as it applies to drivers' licenses and personal identification' at line 1
+Failed to save bill
+['H.R.6525', '114th Congress (2015-2016)', 'Lead-free Students Act', 'Rep. Watson Coleman, Bonnie [D-NJ-12]', 'House - Education and the Workforce', '12/08/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6525/cosponsors?r=10&amp;overview=closed#tabs']
+[2016-12-25 16:39:04] Now getting page  1 find one bill  H.R.6525 Sponsored by  Rep. Watson Coleman, Bonnie [D-NJ-12]
+Bill saved
+['H.R.6524', '114th Congress (2015-2016)', 'Hudson-Mohawk River Basin Act', 'Rep. Tonko, Paul [D-NY-20]', 'House - Natural Resources, Transportation and Infrastructure', '12/19/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6524/cosponsors?r=11&amp;overview=closed#tabs']
+[2016-12-25 16:39:04] Now getting page  1 find one bill  H.R.6524 Sponsored by  Rep. Tonko, Paul [D-NY-20]
+Bill saved
+['H.R.6523', '114th Congress (2015-2016)', 'Safe Transfer Act', 'Rep. Speier, Jackie [D-CA-14]', 'House - Education and the Workforce', '12/08/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6523/cosponsors?r=12&amp;overview=closed#tabs']
+[2016-12-25 16:39:05] Now getting page  1 find one bill  H.R.6523 Sponsored by  Rep. Speier, Jackie [D-CA-14]
+Bill saved
+['H.R.6522', '114th Congress (2015-2016)', 'Public Release and Implementation of Department of Defense Overhead Cost Savings Act', 'Rep. Schrader, Kurt [D-OR-5]', 'House - Armed Services, Rules', '12/08/2016 Referred to House Rules', 'https://www.congress.gov/bill/114th-congress/house-bill/6522/cosponsors?r=13&amp;overview=closed#tabs']
+[2016-12-25 16:39:05] Now getting page  1 find one bill  H.R.6522 Sponsored by  Rep. Schrader, Kurt [D-OR-5]
+Bill saved
+['H.R.6521', '114th Congress (2015-2016)', 'Students and Families Empowerment Act', 'Rep. Rice, Kathleen M. [D-NY-4]', 'House - Ways and Means, Education and the Workforce', '12/08/2016 Referred to House Education and the Workforce', 'https://www.congress.gov/bill/114th-congress/house-bill/6521/cosponsors?r=14&amp;overview=closed#tabs']
+[2016-12-25 16:39:05] Now getting page  1 find one bill  H.R.6521 Sponsored by  Rep. Rice, Kathleen M. [D-NY-4]
+Bill saved
+['H.R.6520', '114th Congress (2015-2016)', "Younger-Onset Alzheimer's Disease Parity Act of 2016", 'Rep. Rice, Kathleen M. [D-NY-4]', 'House - Education and the Workforce', '12/08/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6520/cosponsors?r=15&amp;overview=closed#tabs']
+[2016-12-25 16:39:06] Now getting page  1 find one bill  H.R.6520 Sponsored by  Rep. Rice, Kathleen M. [D-NY-4]
+Bill saved
+['H.R.6519', '114th Congress (2015-2016)', 'Safeguarding Sanctuary Cities Act of 2016', 'Rep. Quigley, Mike [D-IL-5]', 'House - Judiciary, Oversight and Government Reform', '12/22/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6519/cosponsors?r=16&amp;overview=closed#tabs']
+[2016-12-25 16:39:06] Now getting page  1 find one bill  H.R.6519 Sponsored by  Rep. Quigley, Mike [D-IL-5]
+Bill saved
+['H.R.6518', '114th Congress (2015-2016)', 'MACPAC Improvement Act of 2016', 'Rep. Pitts, Joseph R. [R-PA-16]', 'House - Energy and Commerce', '12/08/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6518/cosponsors?r=17&amp;overview=closed#tabs']
+[2016-12-25 16:39:06] Now getting page  1 find one bill  H.R.6518 Sponsored by  Rep. Pitts, Joseph R. [R-PA-16]
+Bill saved
+['H.R.6517', '114th Congress (2015-2016)', 'INFORM Act', "Rep. O'Rourke, Beto [D-TX-16]", "House - Veterans' Affairs, Armed Services", '12/08/2016 Referred to the Subcommittee on Health.', 'https://www.congress.gov/bill/114th-congress/house-bill/6517/cosponsors?r=18&amp;overview=closed#tabs']
+[2016-12-25 16:39:07] Now getting page  1 find one bill  H.R.6517 Sponsored by  Rep. O'Rourke, Beto [D-TX-16]
+Bill saved
+['H.R.6516', '114th Congress (2015-2016)', 'To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand eligibility for the Veterans Choice Program of the Department of Veterans Affairs, to establish a minimum period of care or services under such program, and for other purposes.', "Rep. O'Rourke, Beto [D-TX-16]", "House - Veterans' Affairs", '12/08/2016 Referred to the Subcommittee on Health.', 'https://www.congress.gov/bill/114th-congress/house-bill/6516/cosponsors?r=19&amp;overview=closed#tabs']
+[2016-12-25 16:39:07] Now getting page  1 find one bill  H.R.6516 Sponsored by  Rep. O'Rourke, Beto [D-TX-16]
+Bill saved
+['H.R.6515', '114th Congress (2015-2016)', 'Fairness to Teaching Hospitals Act of 2016', 'Rep. Mullin, Markwayne [R-OK-2]', 'House - Ways and Means, Energy and Commerce', '12/08/2016 Referred to House Energy and Commerce', 'https://www.congress.gov/bill/114th-congress/house-bill/6515/cosponsors?r=20&amp;overview=closed#tabs']
+[2016-12-25 16:39:07] Now getting page  1 find one bill  H.R.6515 Sponsored by  Rep. Mullin, Markwayne [R-OK-2]
+Bill saved
+['H.R.6514', '114th Congress (2015-2016)', 'To amend the Patient Protection and Affordable Care Act to redirect user fees assessed of health insurance issuers on Federal Exchanges, and for other purposes.', 'Rep. Lance, Leonard [R-NJ-7]', 'House - Energy and Commerce', '12/08/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6514/cosponsors?r=21&amp;overview=closed#tabs']
+[2016-12-25 16:39:08] Now getting page  1 find one bill  H.R.6514 Sponsored by  Rep. Lance, Leonard [R-NJ-7]
+Bill saved
+['H.R.6513', '114th Congress (2015-2016)', 'American Future Healthcare Act of 2016', 'Rep. King, Steve [R-IA-4]', 'House - Ways and Means', '12/08/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6513/cosponsors?r=22&amp;overview=closed#tabs']
+[2016-12-25 16:39:08] Now getting page  1 find one bill  H.R.6513 Sponsored by  Rep. King, Steve [R-IA-4]
+Bill saved
+['H.R.6512', '114th Congress (2015-2016)', 'Mental Health and Substance Abuse Treatment Accessibility Act of 2016', 'Rep. Kilmer, Derek [D-WA-6]', 'House - Energy and Commerce', '12/08/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6512/cosponsors?r=23&amp;overview=closed#tabs']
+[2016-12-25 16:39:08] Now getting page  1 find one bill  H.R.6512 Sponsored by  Rep. Kilmer, Derek [D-WA-6]
+Bill saved
+['H.R.6511', '114th Congress (2015-2016)', 'One President at a Time Act of 2016', 'Rep. Huffman, Jared [D-CA-2]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6511/cosponsors?r=24&amp;overview=closed#tabs']
+[2016-12-25 16:39:09] Now getting page  1 find one bill  H.R.6511 Sponsored by  Rep. Huffman, Jared [D-CA-2]
+Bill saved
+['H.R.6510', '114th Congress (2015-2016)', 'Save the Children Act of 2016', 'Rep. Honda, Michael M. [D-CA-17]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6510/cosponsors?r=25&amp;overview=closed#tabs']
+[2016-12-25 16:39:09] Now getting page  1 find one bill  H.R.6510 Sponsored by  Rep. Honda, Michael M. [D-CA-17]
+Bill saved
+['H.R.6509', '114th Congress (2015-2016)', "Solider's HONR Act", 'Rep. Heck, Denny [D-WA-10]', "House - Veterans' Affairs", '12/08/2016 Referred to the Subcommittee on Economic Opportunity.', 'https://www.congress.gov/bill/114th-congress/house-bill/6509/cosponsors?r=26&amp;overview=closed#tabs']
+[2016-12-25 16:39:09] Now getting page  1 find one bill  H.R.6509 Sponsored by  Rep. Heck, Denny [D-WA-10]
+Bill saved
+['H.R.6508', '114th Congress (2015-2016)', 'Preventing Preventable Earthquakes Act', 'Rep. Grijalva, Raul M. [D-AZ-3]', 'House - Energy and Commerce', '12/08/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6508/cosponsors?r=27&amp;overview=closed#tabs']
+[2016-12-25 16:39:09] Now getting page  1 find one bill  H.R.6508 Sponsored by  Rep. Grijalva, Raul M. [D-AZ-3]
+Bill saved
+['H.R.6507', '114th Congress (2015-2016)', 'To amend section 552 of title 5, United States Code (commonly known as the Freedom of Information Act), to require an agency to release the Federal income tax returns of the President upon request, and for other purposes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means, Oversight and Government Reform', '12/08/2016 Referred to House Oversight and Government Reform', 'https://www.congress.gov/bill/114th-congress/house-bill/6507/cosponsors?r=28&amp;overview=closed#tabs']
+[2016-12-25 16:39:10] Now getting page  1 find one bill  H.R.6507 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6506', '114th Congress (2015-2016)', 'To provide that the President shall be financially responsible for any additional security measures imposed on property in which the President holds an ownership interest, and for other purposes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Oversight and Government Reform', '12/08/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6506/cosponsors?r=29&amp;overview=closed#tabs']
+[2016-12-25 16:39:10] Now getting page  1 find one bill  H.R.6506 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6505', '114th Congress (2015-2016)', 'Andrew Joseph III Act of 2016', 'Rep. Grayson, Alan [D-FL-9]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6505/cosponsors?r=30&amp;overview=closed#tabs']
+[2016-12-25 16:39:10] Now getting page  1 find one bill  H.R.6505 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6504', '114th Congress (2015-2016)', 'To prohibit the use of United States Government funds to provide assistance to Al Qaeda, Jabhat Fateh al-Sham, and the Islamic State of Iraq and the Levant (ISIL) and to countries supporting those organizations, and for other purposes.', 'Rep. Gabbard, Tulsi [D-HI-2]', 'House - Foreign Affairs, Intelligence (Permanent)', '12/08/2016 Referred to House Intelligence', 'https://www.congress.gov/bill/114th-congress/house-bill/6504/cosponsors?r=31&amp;overview=closed#tabs']
+[2016-12-25 16:39:11] Now getting page  1 find one bill  H.R.6504 Sponsored by  Rep. Gabbard, Tulsi [D-HI-2]
+Bill saved
+['H.R.6503', '114th Congress (2015-2016)', 'Care for Life Act', 'Rep. Fortenberry, Jeff [R-NE-1]', 'House - Energy and Commerce, Education and the Workforce', '12/08/2016 Referred to House Education and the Workforce', 'https://www.congress.gov/bill/114th-congress/house-bill/6503/cosponsors?r=32&amp;overview=closed#tabs']
+[2016-12-25 16:39:11] Now getting page  1 find one bill  H.R.6503 Sponsored by  Rep. Fortenberry, Jeff [R-NE-1]
+Bill saved
+['H.R.6502', '114th Congress (2015-2016)', 'Seat Belts Save Lives Act of 2016', 'Rep. Duckworth, Tammy [D-IL-8]', 'House - Transportation and Infrastructure', '12/08/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6502/cosponsors?r=33&amp;overview=closed#tabs']
+[2016-12-25 16:39:11] Now getting page  1 find one bill  H.R.6502 Sponsored by  Rep. Duckworth, Tammy [D-IL-8]
+Bill saved
+['H.R.6501', '114th Congress (2015-2016)', 'Prescription Drug and Medical Device Price Review Board Act of 2016', 'Rep. DeLauro, Rosa L. [D-CT-3]', 'House - Energy and Commerce, Ways and Means, Judiciary', '12/22/2016 Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.', 'https://www.congress.gov/bill/114th-congress/house-bill/6501/cosponsors?r=34&amp;overview=closed#tabs']
+[2016-12-25 16:39:12] Now getting page  1 find one bill  H.R.6501 Sponsored by  Rep. DeLauro, Rosa L. [D-CT-3]
+Bill saved
+['H.R.6500', '114th Congress (2015-2016)', 'Moving Housing Forward Act of 2016', 'Rep. Delaney, John K. [D-MD-6]', 'House - Financial Services, Ways and Means', '12/08/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6500/cosponsors?r=35&amp;overview=closed#tabs']
+[2016-12-25 16:39:13] Now getting page  1 find one bill  H.R.6500 Sponsored by  Rep. Delaney, John K. [D-MD-6]
+Bill saved
+['H.R.6499', '114th Congress (2015-2016)', 'Second Chance for Ex-Offenders Act of 2016', 'Rep. Davis, Danny K. [D-IL-7]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6499/cosponsors?r=36&amp;overview=closed#tabs']
+[2016-12-25 16:39:13] Now getting page  1 find one bill  H.R.6499 Sponsored by  Rep. Davis, Danny K. [D-IL-7]
+Bill saved
+['H.R.6498', '114th Congress (2015-2016)', 'Presidential Tax Disclosure Act of 2016', 'Rep. Cicilline, David N. [D-RI-1]', 'House - Oversight and Government Reform, Ways and Means', '12/08/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6498/cosponsors?r=37&amp;overview=closed#tabs']
+[2016-12-25 16:39:13] Now getting page  1 find one bill  H.R.6498 Sponsored by  Rep. Cicilline, David N. [D-RI-1]
+Bill saved
+['H.R.6497', '114th Congress (2015-2016)', 'TSA Screening Transparency and Accountability Act', 'Rep. Carter, Earl L. "Buddy" [R-GA-1]', 'House - Homeland Security', '12/08/2016 Referred to the House Committee on Homeland Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6497/cosponsors?r=38&amp;overview=closed#tabs']
+[2016-12-25 16:39:14] Now getting page  1 find one bill  H.R.6497 Sponsored by  Rep. Carter, Earl L. "Buddy" [R-GA-1]
+[2016-12-25 16:39:14] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Buddy" [R-GA-1]")' at line 1
+Failed to save bill
+['H.R.6496', '114th Congress (2015-2016)', 'Fairness for American Small Creators Act', 'Rep. Chu, Judy [D-CA-27]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.', 'https://www.congress.gov/bill/114th-congress/house-bill/6496/cosponsors?r=39&amp;overview=closed#tabs']
+[2016-12-25 16:39:14] Now getting page  1 find one bill  H.R.6496 Sponsored by  Rep. Chu, Judy [D-CA-27]
+Bill saved
+['H.R.6495', '114th Congress (2015-2016)', 'Ensure Access to DACA Act', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6495/cosponsors?r=40&amp;overview=closed#tabs']
+[2016-12-25 16:39:14] Now getting page  1 find one bill  H.R.6495 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6494', '114th Congress (2015-2016)', 'Postage Free Ballot Act', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Oversight and Government Reform, House Administration', '12/08/2016 Referred to House Administration', 'https://www.congress.gov/bill/114th-congress/house-bill/6494/cosponsors?r=41&amp;overview=closed#tabs']
+[2016-12-25 16:39:15] Now getting page  1 find one bill  H.R.6494 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6493', '114th Congress (2015-2016)', 'Service Members Financial Planning Assistance Act of 2016', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Armed Services', '12/08/2016 Referred to the House Committee on Armed Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6493/cosponsors?r=42&amp;overview=closed#tabs']
+[2016-12-25 16:39:15] Now getting page  1 find one bill  H.R.6493 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6492', '114th Congress (2015-2016)', 'Tax Benefit for Homeownership Clarification Act', 'Rep. Ellison, Keith [D-MN-5]', 'House - Ways and Means', '12/08/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6492/cosponsors?r=43&amp;overview=closed#tabs']
+[2016-12-25 16:39:15] Now getting page  1 find one bill  H.R.6492 Sponsored by  Rep. Ellison, Keith [D-MN-5]
+Bill saved
+['H.R.6491', '114th Congress (2015-2016)', 'To authorize the Secretary of the Interior to convey certain land to La Paz County, Arizona, and for other purposes.', 'Rep. Gosar, Paul A. [R-AZ-4]', 'House - Natural Resources', '12/16/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6491/cosponsors?r=44&amp;overview=closed#tabs']
+[2016-12-25 16:39:16] Now getting page  1 find one bill  H.R.6491 Sponsored by  Rep. Gosar, Paul A. [R-AZ-4]
+Bill saved
+['H.R.6490', '114th Congress (2015-2016)', 'American Innovation and Competitiveness Act', 'Rep. Smith, Lamar [R-TX-21]', 'House - Science, Space, and Technology, Oversight and Government Reform, Education and the Workforce', '12/08/2016 Referred to House Education and the Workforce', 'https://www.congress.gov/bill/114th-congress/house-bill/6490/cosponsors?r=45&amp;overview=closed#tabs']
+[2016-12-25 16:39:16] Now getting page  1 find one bill  H.R.6490 Sponsored by  Rep. Smith, Lamar [R-TX-21]
+Bill saved
+['H.R.6489', '114th Congress (2015-2016)', 'Social Security Reform Act of 2016', 'Rep. Johnson, Sam [R-TX-3]', 'House - Ways and Means', '12/08/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6489/cosponsors?r=46&amp;overview=closed#tabs']
+[2016-12-25 16:39:16] Now getting page  1 find one bill  H.R.6489 Sponsored by  Rep. Johnson, Sam [R-TX-3]
+Bill saved
+['H.R.6488', '114th Congress (2015-2016)', 'Municipal Securities Disclosure Act of 2016', 'Rep. Moore, Gwen [D-WI-4]', 'House - Financial Services', '12/08/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6488/cosponsors?r=47&amp;overview=closed#tabs']
+[2016-12-25 16:39:17] Now getting page  1 find one bill  H.R.6488 Sponsored by  Rep. Moore, Gwen [D-WI-4]
+Bill saved
+['H.R.6487', '114th Congress (2015-2016)', 'Taxpayer Protections and Market Access for Mortgage Finance Act of 2016', 'Rep. Royce, Edward R. [R-CA-39]', 'House - Financial Services, Agriculture, Ways and Means', '12/16/2016 Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.', 'https://www.congress.gov/bill/114th-congress/house-bill/6487/cosponsors?r=48&amp;overview=closed#tabs']
+[2016-12-25 16:39:17] Now getting page  1 find one bill  H.R.6487 Sponsored by  Rep. Royce, Edward R. [R-CA-39]
+Bill saved
+['H.R.6486', '114th Congress (2015-2016)', 'Laquan McDonald Camera Act of 2016', 'Rep. Rush, Bobby L. [D-IL-1]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6486/cosponsors?r=49&amp;overview=closed#tabs']
+[2016-12-25 16:39:18] Now getting page  1 find one bill  H.R.6486 Sponsored by  Rep. Rush, Bobby L. [D-IL-1]
+Bill saved
+['H.R.6485', '114th Congress (2015-2016)', 'Improving Care for Vulnerable Older Citizens through Workforce Advancement Act of 2016', 'Rep. Cartwright, Matt [D-PA-17]', 'House - Education and the Workforce', '12/08/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6485/cosponsors?r=50&amp;overview=closed#tabs']
+[2016-12-25 16:39:18] Now getting page  1 find one bill  H.R.6485 Sponsored by  Rep. Cartwright, Matt [D-PA-17]
+Bill saved
+['H.R.6484', '114th Congress (2015-2016)', "Commission to Study Family Reconstruction Proposals for African-Americans Unjustly Impacted by the `War on Drugs' Act of 2016", 'Rep. Rush, Bobby L. [D-IL-1]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6484/cosponsors?r=51&amp;overview=closed#tabs']
+[2016-12-25 16:39:19] Now getting page  1 find one bill  H.R.6484 Sponsored by  Rep. Rush, Bobby L. [D-IL-1]
+Bill saved
+['H.R.6483', '114th Congress (2015-2016)', 'SWINE Act', 'Rep. Price, David E. [D-NC-4]', 'House - Agriculture, Ways and Means', '12/13/2016 Sponsor introductory remarks on measure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6483/cosponsors?r=52&amp;overview=closed#tabs']
+[2016-12-25 16:39:19] Now getting page  1 find one bill  H.R.6483 Sponsored by  Rep. Price, David E. [D-NC-4]
+Bill saved
+['H.R.6482', '114th Congress (2015-2016)', 'Frank R. Wolf International Religious Freedom Act', 'Rep. Smith, Christopher H. [R-NJ-4]', 'House - Foreign Affairs, Financial Services, Oversight and Government Reform', '12/08/2016 Referred to House Oversight and Government Reform', 'https://www.congress.gov/bill/114th-congress/house-bill/6482/cosponsors?r=53&amp;overview=closed#tabs']
+[2016-12-25 16:39:20] Now getting page  1 find one bill  H.R.6482 Sponsored by  Rep. Smith, Christopher H. [R-NJ-4]
+Bill saved
+['H.R.6481', '114th Congress (2015-2016)', 'Urban Agriculture Production Act of 2016', 'Rep. Kaptur, Marcy [D-OH-9]', 'House - Agriculture', '12/08/2016 Referred to the House Committee on Agriculture.', 'https://www.congress.gov/bill/114th-congress/house-bill/6481/cosponsors?r=54&amp;overview=closed#tabs']
+[2016-12-25 16:39:20] Now getting page  1 find one bill  H.R.6481 Sponsored by  Rep. Kaptur, Marcy [D-OH-9]
+Bill saved
+['H.R.6480', '114th Congress (2015-2016)', 'Intelligence Authorization Act for Fiscal Year 2017', 'Rep. Nunes, Devin [R-CA-22]', 'House - Intelligence (Permanent)', '12/08/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6480/cosponsors?r=55&amp;overview=closed#tabs']
+[2016-12-25 16:39:20] Now getting page  1 find one bill  H.R.6480 Sponsored by  Rep. Nunes, Devin [R-CA-22]
+Bill saved
+['H.R.6479', '114th Congress (2015-2016)', 'Red River Gradient Boundary Survey Act', 'Rep. Thornberry, Mac [R-TX-13]', 'House - Natural Resources', '12/15/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6479/cosponsors?r=56&amp;overview=closed#tabs']
+[2016-12-25 16:39:21] Now getting page  1 find one bill  H.R.6479 Sponsored by  Rep. Thornberry, Mac [R-TX-13]
+Bill saved
+['H.R.6478', '114th Congress (2015-2016)', 'Interstate Doxxing Prevention Act', 'Rep. Clark, Katherine M. [D-MA-5]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6478/cosponsors?r=57&amp;overview=closed#tabs']
+[2016-12-25 16:39:21] Now getting page  1 find one bill  H.R.6478 Sponsored by  Rep. Clark, Katherine M. [D-MA-5]
+Bill saved
+None
+['H.R.6476', '114th Congress (2015-2016)', 'DRAIN the SWAMP Act', 'Rep. DeFazio, Peter A. [D-OR-4]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on the Constitution and Civil Justice.', 'https://www.congress.gov/bill/114th-congress/house-bill/6476/cosponsors?r=59&amp;overview=closed#tabs']
+[2016-12-25 16:39:21] Now getting page  1 find one bill  H.R.6476 Sponsored by  Rep. DeFazio, Peter A. [D-OR-4]
+Bill saved
+['H.R.6475', '114th Congress (2015-2016)', 'To remove reversionary clauses on property owned by the municipality of Anchorage, Alaska.', 'Rep. Young, Don [R-AK-At Large]', 'House - Natural Resources', '12/12/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6475/cosponsors?r=60&amp;overview=closed#tabs']
+[2016-12-25 16:39:21] Now getting page  1 find one bill  H.R.6475 Sponsored by  Rep. Young, Don [R-AK-At Large]
+Bill saved
+['H.R.6474', '114th Congress (2015-2016)', 'To eliminate the daily newspaper cross-ownership rule of the Federal Communications Commission.', 'Rep. Walden, Greg [R-OR-2]', 'House - Energy and Commerce', '12/07/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6474/cosponsors?r=61&amp;overview=closed#tabs']
+[2016-12-25 16:39:22] Now getting page  1 find one bill  H.R.6474 Sponsored by  Rep. Walden, Greg [R-OR-2]
+Bill saved
+['H.R.6473', '114th Congress (2015-2016)', 'To express the sense of Congress that information security is critical to the economic security of the United States and to direct the Assistant Secretary of Commerce for Communications and Information to submit to Congress a report on the costs of information security.', 'Rep. Upton, Fred [R-MI-6]', 'House - Energy and Commerce', '12/07/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6473/cosponsors?r=62&amp;overview=closed#tabs']
+[2016-12-25 16:39:22] Now getting page  1 find one bill  H.R.6473 Sponsored by  Rep. Upton, Fred [R-MI-6]
+Bill saved
+['H.R.6472', '114th Congress (2015-2016)', 'Teachers and Parents at the Table Act', 'Rep. Rice, Kathleen M. [D-NY-4]', 'House - Education and the Workforce', '12/07/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6472/cosponsors?r=63&amp;overview=closed#tabs']
+[2016-12-25 16:39:22] Now getting page  1 find one bill  H.R.6472 Sponsored by  Rep. Rice, Kathleen M. [D-NY-4]
+Bill saved
+['H.R.6471', '114th Congress (2015-2016)', 'Army Combat Action Badge Eligibility Act', 'Rep. Mooney, Alexander X. [R-WV-2]', 'House - Armed Services', '12/07/2016 Referred to the House Committee on Armed Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6471/cosponsors?r=64&amp;overview=closed#tabs']
+[2016-12-25 16:39:23] Now getting page  1 find one bill  H.R.6471 Sponsored by  Rep. Mooney, Alexander X. [R-WV-2]
+Bill saved
+['H.R.6470', '114th Congress (2015-2016)', 'Graduate Student Savings Act of 2016', 'Rep. Kennedy, Joseph P., III [D-MA-4]', 'House - Ways and Means', '12/07/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6470/cosponsors?r=65&amp;overview=closed#tabs']
+[2016-12-25 16:39:23] Now getting page  1 find one bill  H.R.6470 Sponsored by  Rep. Kennedy, Joseph P., III [D-MA-4]
+Bill saved
+['H.R.6469', '114th Congress (2015-2016)', 'Yurok Lands Act', 'Rep. Huffman, Jared [D-CA-2]', 'House - Natural Resources', '12/15/2016 Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.', 'https://www.congress.gov/bill/114th-congress/house-bill/6469/cosponsors?r=66&amp;overview=closed#tabs']
+[2016-12-25 16:39:24] Now getting page  1 find one bill  H.R.6469 Sponsored by  Rep. Huffman, Jared [D-CA-2]
+Bill saved
+['H.R.6468', '114th Congress (2015-2016)', 'FILCA of 2016', 'Rep. Harris, Andy [R-MD-1]', 'House - Judiciary, Oversight and Government Reform, Appropriations', '12/22/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6468/cosponsors?r=67&amp;overview=closed#tabs']
+[2016-12-25 16:39:24] Now getting page  1 find one bill  H.R.6468 Sponsored by  Rep. Harris, Andy [R-MD-1]
+Bill saved
+['H.R.6467', '114th Congress (2015-2016)', 'Use It or Choose It Act of 2016', 'Rep. Grayson, Alan [D-FL-9]', 'House - Education and the Workforce', '12/07/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6467/cosponsors?r=68&amp;overview=closed#tabs']
+[2016-12-25 16:39:25] Now getting page  1 find one bill  H.R.6467 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6466', '114th Congress (2015-2016)', 'APP Act', 'Rep. Emmer, Tom [R-MN-6]', 'House - Oversight and Government Reform', '12/07/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6466/cosponsors?r=69&amp;overview=closed#tabs']
+[2016-12-25 16:39:25] Now getting page  1 find one bill  H.R.6466 Sponsored by  Rep. Emmer, Tom [R-MN-6]
+Bill saved
+['H.R.6465', '114th Congress (2015-2016)', 'To authorize the incorporation of water quality improvement partnership programs into Federal Water Pollution Control Act NPDES permit programs, and for other purposes.', 'Rep. Duncan, John J., Jr. [R-TN-2]', 'House - Transportation and Infrastructure', '12/07/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6465/cosponsors?r=70&amp;overview=closed#tabs']
+[2016-12-25 16:39:25] Now getting page  1 find one bill  H.R.6465 Sponsored by  Rep. Duncan, John J., Jr. [R-TN-2]
+Bill saved
+['H.R.6464', '114th Congress (2015-2016)', 'Teach to Lead Act of 2016', 'Rep. Davis, Susan A. [D-CA-53]', 'House - Education and the Workforce', '12/07/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6464/cosponsors?r=71&amp;overview=closed#tabs']
+[2016-12-25 16:39:26] Now getting page  1 find one bill  H.R.6464 Sponsored by  Rep. Davis, Susan A. [D-CA-53]
+Bill saved
+['H.R.6463', '114th Congress (2015-2016)', 'Patient Safety and Toxicology Modernization Act of 2016', 'Rep. Collins, Chris [R-NY-27]', 'House - Energy and Commerce', '12/07/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6463/cosponsors?r=72&amp;overview=closed#tabs']
+[2016-12-25 16:39:26] Now getting page  1 find one bill  H.R.6463 Sponsored by  Rep. Collins, Chris [R-NY-27]
+Bill saved
+['H.R.6462', '114th Congress (2015-2016)', 'Prioritizing the Most Vulnerable Americans Act', 'Rep. Collins, Chris [R-NY-27]', 'House - Energy and Commerce', '12/07/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6462/cosponsors?r=73&amp;overview=closed#tabs']
+[2016-12-25 16:39:26] Now getting page  1 find one bill  H.R.6462 Sponsored by  Rep. Collins, Chris [R-NY-27]
+Bill saved
+['H.R.6461', '114th Congress (2015-2016)', 'Bring Enhanced Liability in Transportation for Students Act', 'Rep. Cohen, Steve [D-TN-9]', 'House - Transportation and Infrastructure, Education and the Workforce', '12/07/2016 Referred to House Education and the Workforce', 'https://www.congress.gov/bill/114th-congress/house-bill/6461/cosponsors?r=74&amp;overview=closed#tabs']
+[2016-12-25 16:39:26] Now getting page  1 find one bill  H.R.6461 Sponsored by  Rep. Cohen, Steve [D-TN-9]
+Bill saved
+['H.R.6460', '114th Congress (2015-2016)', 'Buy America for Drinking Water Extension Act of 2016', 'Rep. Bustos, Cheri [D-IL-17]', 'House - Energy and Commerce', '12/07/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6460/cosponsors?r=75&amp;overview=closed#tabs']
+[2016-12-25 16:39:27] Now getting page  1 find one bill  H.R.6460 Sponsored by  Rep. Bustos, Cheri [D-IL-17]
+Bill saved
+['H.R.6459', '114th Congress (2015-2016)', 'Supporting Youth Opportunity and Preventing Delinquency Act of 2016', 'Rep. Curbelo, Carlos [R-FL-26]', 'House - Education and the Workforce', '12/07/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6459/cosponsors?r=76&amp;overview=closed#tabs']
+[2016-12-25 16:39:27] Now getting page  1 find one bill  H.R.6459 Sponsored by  Rep. Curbelo, Carlos [R-FL-26]
+[2016-12-25 16:39:27] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bobby" [D-VA-3]*']"," 114th Congress (2015-2016)"," Supporting Youth Opportunity' at line 1
+Failed to save bill
+['H.R.6458', '114th Congress (2015-2016)', 'Help our Neediest Families Act of 2016', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Ways and Means, Financial Services', '12/07/2016 Referred to House Financial Services', 'https://www.congress.gov/bill/114th-congress/house-bill/6458/cosponsors?r=77&amp;overview=closed#tabs']
+[2016-12-25 16:39:28] Now getting page  1 find one bill  H.R.6458 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6457', '114th Congress (2015-2016)', 'Preventive Services Medicare Parity Act of 2016', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Energy and Commerce, Ways and Means', '12/07/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6457/cosponsors?r=78&amp;overview=closed#tabs']
+[2016-12-25 16:39:28] Now getting page  1 find one bill  H.R.6457 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6456', '114th Congress (2015-2016)', 'End the Backlog Act', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Homeland Security, Ways and Means, Judiciary', '12/07/2016 Referred to House Judiciary', 'https://www.congress.gov/bill/114th-congress/house-bill/6456/cosponsors?r=79&amp;overview=closed#tabs']
+[2016-12-25 16:39:28] Now getting page  1 find one bill  H.R.6456 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6455', '114th Congress (2015-2016)', 'Energizing American Maritime Act', 'Rep. Garamendi, John [D-CA-3]', 'House - Energy and Commerce, Foreign Affairs', '12/07/2016 Referred to House Foreign Affairs', 'https://www.congress.gov/bill/114th-congress/house-bill/6455/cosponsors?r=80&amp;overview=closed#tabs']
+[2016-12-25 16:39:28] Now getting page  1 find one bill  H.R.6455 Sponsored by  Rep. Garamendi, John [D-CA-3]
+Bill saved
+['H.R.6454', '114th Congress (2015-2016)', 'Energizing American Shipbuilding and Maritime Act', 'Rep. Garamendi, John [D-CA-3]', 'House - Energy and Commerce, Foreign Affairs', '12/07/2016 Referred to House Foreign Affairs', 'https://www.congress.gov/bill/114th-congress/house-bill/6454/cosponsors?r=81&amp;overview=closed#tabs']
+[2016-12-25 16:39:29] Now getting page  1 find one bill  H.R.6454 Sponsored by  Rep. Garamendi, John [D-CA-3]
+Bill saved
+['H.R.6453', '114th Congress (2015-2016)', 'To clarify the effect of a Memorandum Opinion for the Assistant Attorney General, Criminal Division, dated September 20, 2011, and pertaining to the lawfulness of proposals by Illinois and New York to use the Internet and out-of-state transaction processors to sell lottery tickets to in-state adults, and for other purposes.', 'Rep. Fitzpatrick, Michael G. [R-PA-8]', 'House - Financial Services, Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6453/cosponsors?r=82&amp;overview=closed#tabs']
+[2016-12-25 16:39:29] Now getting page  1 find one bill  H.R.6453 Sponsored by  Rep. Fitzpatrick, Michael G. [R-PA-8]
+Bill saved
+['H.R.6452', '114th Congress (2015-2016)', 'Ensuring Access to Pacific Fisheries Act', 'Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]', 'House - Natural Resources, Science, Space, and Technology', '12/16/2016 Signed by President.', 'https://www.congress.gov/bill/114th-congress/house-bill/6452/cosponsors?r=83&amp;overview=closed#tabs']
+[2016-12-25 16:39:29] Now getting page  1 find one bill  H.R.6452 Sponsored by  Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]
+Bill saved
+['H.R.6451', '114th Congress (2015-2016)', 'Federal Property Management Reform Act of 2016', 'Rep. Denham, Jeff [R-CA-10]', 'House - Oversight and Government Reform, Transportation and Infrastructure', '12/16/2016 Became Public Law No: 114-318.', 'https://www.congress.gov/bill/114th-congress/house-bill/6451/cosponsors?r=84&amp;overview=closed#tabs']
+[2016-12-25 16:39:30] Now getting page  1 find one bill  H.R.6451 Sponsored by  Rep. Denham, Jeff [R-CA-10]
+Bill saved
+['H.R.6450', '114th Congress (2015-2016)', 'Inspector General Empowerment Act of 2016', 'Rep. Chaffetz, Jason [R-UT-3]', 'House - Oversight and Government Reform', '12/16/2016 Became Public Law No: 114-317.', 'https://www.congress.gov/bill/114th-congress/house-bill/6450/cosponsors?r=85&amp;overview=closed#tabs']
+[2016-12-25 16:39:30] Now getting page  1 find one bill  H.R.6450 Sponsored by  Rep. Chaffetz, Jason [R-UT-3]
+Bill saved
+['H.R.6449', '114th Congress (2015-2016)', 'Clean Money Act of 2016', 'Rep. Boyle, Brendan F. [D-PA-13]', 'House - House Administration, Energy and Commerce', '12/07/2016 Referred to House Energy and Commerce', 'https://www.congress.gov/bill/114th-congress/house-bill/6449/cosponsors?r=86&amp;overview=closed#tabs']
+[2016-12-25 16:39:30] Now getting page  1 find one bill  H.R.6449 Sponsored by  Rep. Boyle, Brendan F. [D-PA-13]
+Bill saved
+['H.R.6448', '114th Congress (2015-2016)', 'Wildlife Corridors Conservation Act of 2016', 'Rep. Beyer, Donald S., Jr. [D-VA-8]', 'House - Natural Resources, Armed Services, Agriculture, Transportation and Infrastructure', '12/16/2016 Referred to the Subcommittee on Conservation and Forestry.', 'https://www.congress.gov/bill/114th-congress/house-bill/6448/cosponsors?r=87&amp;overview=closed#tabs']
+[2016-12-25 16:39:31] Now getting page  1 find one bill  H.R.6448 Sponsored by  Rep. Beyer, Donald S., Jr. [D-VA-8]
+Bill saved
+['H.R.6447', '114th Congress (2015-2016)', 'Protecting Our Democracy Act', 'Rep. Swalwell, Eric [D-CA-15]', 'House - Foreign Affairs', '12/07/2016 Referred to the House Committee on Foreign Affairs.', 'https://www.congress.gov/bill/114th-congress/house-bill/6447/cosponsors?r=88&amp;overview=closed#tabs']
+[2016-12-25 16:39:31] Now getting page  1 find one bill  H.R.6447 Sponsored by  Rep. Swalwell, Eric [D-CA-15]
+Bill saved
+['H.R.6446', '114th Congress (2015-2016)', 'Student Borrower HELP Act of 2016', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Financial Services, Ways and Means', '12/06/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6446/cosponsors?r=89&amp;overview=closed#tabs']
+[2016-12-25 16:39:31] Now getting page  1 find one bill  H.R.6446 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6445', '114th Congress (2015-2016)', 'Veterans Health Care Trust Fund Act', "Rep. O'Rourke, Beto [D-TX-16]", "House - Ways and Means, Veterans' Affairs", '12/08/2016 Referred to the Subcommittee on Health.', 'https://www.congress.gov/bill/114th-congress/house-bill/6445/cosponsors?r=90&amp;overview=closed#tabs']
+[2016-12-25 16:39:32] Now getting page  1 find one bill  H.R.6445 Sponsored by  Rep. O'Rourke, Beto [D-TX-16]
+Bill saved
+['H.R.6444', '114th Congress (2015-2016)', 'Perkins Loan Program Inflation Adjustment Act of 2016', 'Rep. Meng, Grace [D-NY-6]', 'House - Education and the Workforce', '12/06/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6444/cosponsors?r=91&amp;overview=closed#tabs']
+[2016-12-25 16:39:32] Now getting page  1 find one bill  H.R.6444 Sponsored by  Rep. Meng, Grace [D-NY-6]
+Bill saved
+['H.R.6443', '114th Congress (2015-2016)', 'Heroin and Opioid Abuse Prevention and Treatment Act of 2016', 'Rep. Lujan Grisham, Michelle [D-NM-1]', 'House - Ways and Means, Energy and Commerce, Budget', '12/06/2016 Referred to House Budget', 'https://www.congress.gov/bill/114th-congress/house-bill/6443/cosponsors?r=92&amp;overview=closed#tabs']
+[2016-12-25 16:39:33] Now getting page  1 find one bill  H.R.6443 Sponsored by  Rep. Lujan Grisham, Michelle [D-NM-1]
+Bill saved
+['H.R.6442', '114th Congress (2015-2016)', 'To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.', 'Rep. Fortenberry, Jeff [R-NE-1]', 'House - Natural Resources', '12/08/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6442/cosponsors?r=93&amp;overview=closed#tabs']
+[2016-12-25 16:39:33] Now getting page  1 find one bill  H.R.6442 Sponsored by  Rep. Fortenberry, Jeff [R-NE-1]
+Bill saved
+['H.R.6441', '114th Congress (2015-2016)', 'Video Visitation in Prisons Act of 2016', 'Rep. Duckworth, Tammy [D-IL-8]', 'House - Judiciary, Energy and Commerce', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6441/cosponsors?r=94&amp;overview=closed#tabs']
+[2016-12-25 16:39:33] Now getting page  1 find one bill  H.R.6441 Sponsored by  Rep. Duckworth, Tammy [D-IL-8]
+Bill saved
+['H.R.6440', '114th Congress (2015-2016)', 'Justice for Child Victims Act of 2016', 'Rep. Gowdy, Trey [R-SC-4]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6440/cosponsors?r=95&amp;overview=closed#tabs']
+[2016-12-25 16:39:34] Now getting page  1 find one bill  H.R.6440 Sponsored by  Rep. Gowdy, Trey [R-SC-4]
+Bill saved
+['H.R.6439', '114th Congress (2015-2016)', 'Tax Technical Corrections Act of 2016', 'Rep. Brady, Kevin [R-TX-8]', 'House - Ways and Means', '12/06/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6439/cosponsors?r=96&amp;overview=closed#tabs']
+[2016-12-25 16:39:35] Now getting page  1 find one bill  H.R.6439 Sponsored by  Rep. Brady, Kevin [R-TX-8]
+Bill saved
+['H.R.6438', '114th Congress (2015-2016)', 'To extend the waiver of limitations with respect to excluding from gross income amounts received by wrongfully incarcerated individuals.', 'Rep. Johnson, Sam [R-TX-3]', 'House - Ways and Means', '12/07/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6438/cosponsors?r=97&amp;overview=closed#tabs']
+[2016-12-25 16:39:36] Now getting page  1 find one bill  H.R.6438 Sponsored by  Rep. Johnson, Sam [R-TX-3]
+Bill saved
+['H.R.6437', '114th Congress (2015-2016)', 'Reclamation of War Powers Act', 'Rep. Himes, James A. [D-CT-4]', 'House - Foreign Affairs, Rules, Armed Services', '12/05/2016 Referred to House Armed Services', 'https://www.congress.gov/bill/114th-congress/house-bill/6437/cosponsors?r=98&amp;overview=closed#tabs']
+[2016-12-25 16:39:36] Now getting page  1 find one bill  H.R.6437 Sponsored by  Rep. Himes, James A. [D-CT-4]
+Bill saved
+['H.R.6436', '114th Congress (2015-2016)', 'U.S. Insurance Regulation Works Act of 2016', 'Rep. Heck, Denny [D-WA-10]', 'House - Financial Services', '12/05/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6436/cosponsors?r=99&amp;overview=closed#tabs']
+[2016-12-25 16:39:37] Now getting page  1 find one bill  H.R.6436 Sponsored by  Rep. Heck, Denny [D-WA-10]
+Bill saved
+['H.R.6435', '114th Congress (2015-2016)', 'To authorize the Directors of Veterans Integrated Service Networks of the Department of Veterans Affairs to enter into contracts with appropriate civilian accreditation entities or appropriate health care evaluation entities to investigate medical centers of the Department of Veterans Affairs.', 'Rep. Mullin, Markwayne [R-OK-2]', "House - Veterans' Affairs", '12/08/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6435/cosponsors?r=100&amp;overview=closed#tabs']
+[2016-12-25 16:39:37] Now getting page  1 find one bill  H.R.6435 Sponsored by  Rep. Mullin, Markwayne [R-OK-2]
+Bill saved
+[2016-12-25 16:39:37] now scraping page  2
+['H.R.6434', '114th Congress (2015-2016)', 'FIRST Cap Profits Act of 2016', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Financial Services', '12/05/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6434/cosponsors?r=101&amp;overview=closed#tabs']
+[2016-12-25 16:39:40] Now getting page  2 find one bill  H.R.6434 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6433', '114th Congress (2015-2016)', 'Protect the Flag Act', 'Rep. Turner, Michael R. [R-OH-10]', 'House - Education and the Workforce', '12/02/2016 Referred to the House Committee on Education and the Workforce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6433/cosponsors?r=102&amp;overview=closed#tabs']
+[2016-12-25 16:39:40] Now getting page  2 find one bill  H.R.6433 Sponsored by  Rep. Turner, Michael R. [R-OH-10]
+Bill saved
+['H.R.6432', '114th Congress (2015-2016)', 'Trade Deficit Reduction Act', 'Rep. Slaughter, Louise McIntosh [D-NY-25]', 'House - Ways and Means', '12/02/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6432/cosponsors?r=103&amp;overview=closed#tabs']
+[2016-12-25 16:39:41] Now getting page  2 find one bill  H.R.6432 Sponsored by  Rep. Slaughter, Louise McIntosh [D-NY-25]
+Bill saved
+['H.R.6431', '114th Congress (2015-2016)', 'Promoting Travel, Commerce, and National Security Act of 2016', 'Rep. Kuster, Ann M. [D-NH-2]', 'House - Judiciary', '12/16/2016 Became Public Law No: 114-316.', 'https://www.congress.gov/bill/114th-congress/house-bill/6431/cosponsors?r=104&amp;overview=closed#tabs']
+[2016-12-25 16:39:41] Now getting page  2 find one bill  H.R.6431 Sponsored by  Rep. Kuster, Ann M. [D-NH-2]
+Bill saved
+['H.R.6430', '114th Congress (2015-2016)', 'Great Lakes Maritime Heritage Assessment Act', 'Rep. Kaptur, Marcy [D-OH-9]', 'House - Natural Resources', '12/07/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6430/cosponsors?r=105&amp;overview=closed#tabs']
+[2016-12-25 16:39:41] Now getting page  2 find one bill  H.R.6430 Sponsored by  Rep. Kaptur, Marcy [D-OH-9]
+Bill saved
+['H.R.6429', '114th Congress (2015-2016)', 'To amend the Intermodal Surface Transportation Efficiency Act of 1991 to include certain areas in the Central Texas Corridor.', 'Rep. Babin, Brian [R-TX-36]', 'House - Transportation and Infrastructure', '12/02/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6429/cosponsors?r=106&amp;overview=closed#tabs']
+[2016-12-25 16:39:42] Now getting page  2 find one bill  H.R.6429 Sponsored by  Rep. Babin, Brian [R-TX-36]
+Bill saved
+['H.R.6428', '114th Congress (2015-2016)', 'To amend title XVIII of the Social Security Act to limit Medicare part B premium increases for 2017.', 'Rep. Titus, Dina [D-NV-1]', 'House - Energy and Commerce, Ways and Means', '12/02/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6428/cosponsors?r=107&amp;overview=closed#tabs']
+[2016-12-25 16:39:42] Now getting page  2 find one bill  H.R.6428 Sponsored by  Rep. Titus, Dina [D-NV-1]
+[2016-12-25 16:39:42] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rep. O'Rourke, Beto [D-TX-16]*", 'Rep. Yarmuth, John A. [D-KY-3]*', 'Rep. Schako' at line 1
+Failed to save bill
+['H.R.6427', '114th Congress (2015-2016)', 'Creating Financial Prosperity for Businesses and Investors Act', 'Rep. Garrett, Scott [R-NJ-5]', 'House - Financial Services', '12/06/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6427/cosponsors?r=108&amp;overview=closed#tabs']
+[2016-12-25 16:39:42] Now getting page  2 find one bill  H.R.6427 Sponsored by  Rep. Garrett, Scott [R-NJ-5]
+Bill saved
+['H.R.6426', '114th Congress (2015-2016)', 'To amend title 5, United States Code, to provide for a 2 year prohibition on employment in a career civil service position for any former political appointee, and for other purposes.', 'Rep. Buck, Ken [R-CO-4]', 'House - Oversight and Government Reform', '12/02/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6426/cosponsors?r=109&amp;overview=closed#tabs']
+[2016-12-25 16:39:43] Now getting page  2 find one bill  H.R.6426 Sponsored by  Rep. Buck, Ken [R-CO-4]
+Bill saved
+['H.R.6425', '114th Congress (2015-2016)', 'Safeguard Aquaculture Farmers Act', 'Rep. Crawford, Eric A. "Rick" [R-AR-1]', 'House - Natural Resources', '12/07/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6425/cosponsors?r=110&amp;overview=closed#tabs']
+[2016-12-25 16:39:43] Now getting page  2 find one bill  H.R.6425 Sponsored by  Rep. Crawford, Eric A. "Rick" [R-AR-1]
+[2016-12-25 16:39:43] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rick" [R-AR-1]")' at line 1
+Failed to save bill
+['H.R.6424', '114th Congress (2015-2016)', 'NIST Plumbing Research Act of 2016', 'Rep. Cartwright, Matt [D-PA-17]', 'House - Science, Space, and Technology', '12/02/2016 Referred to the House Committee on Science, Space, and Technology.', 'https://www.congress.gov/bill/114th-congress/house-bill/6424/cosponsors?r=111&amp;overview=closed#tabs']
+[2016-12-25 16:39:44] Now getting page  2 find one bill  H.R.6424 Sponsored by  Rep. Cartwright, Matt [D-PA-17]
+Bill saved
+['H.R.6423', '114th Congress (2015-2016)', 'Justice for Victims of Fraud Act of 2016', 'Rep. Sherman, Brad [D-CA-30]', 'House - Financial Services', '12/01/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6423/cosponsors?r=112&amp;overview=closed#tabs']
+[2016-12-25 16:39:44] Now getting page  2 find one bill  H.R.6423 Sponsored by  Rep. Sherman, Brad [D-CA-30]
+[2016-12-25 16:39:44] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hank," Jr. [D-GA-4]', 'Rep. Lynch, Stephen F. [D-MA-8]', 'Rep. Velazquez, Nydia ' at line 1
+Failed to save bill
+['H.R.6422', '114th Congress (2015-2016)', 'Commuter Access Reform Act', 'Rep. Roskam, Peter J. [R-IL-6]', 'House - Ways and Means', '12/01/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6422/cosponsors?r=113&amp;overview=closed#tabs']
+[2016-12-25 16:39:44] Now getting page  2 find one bill  H.R.6422 Sponsored by  Rep. Roskam, Peter J. [R-IL-6]
+Bill saved
+['H.R.6421', '114th Congress (2015-2016)', 'Anti-Semitism Awareness Act of 2016', 'Rep. Roskam, Peter J. [R-IL-6]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on the Constitution and Civil Justice.', 'https://www.congress.gov/bill/114th-congress/house-bill/6421/cosponsors?r=114&amp;overview=closed#tabs']
+[2016-12-25 16:39:45] Now getting page  2 find one bill  H.R.6421 Sponsored by  Rep. Roskam, Peter J. [R-IL-6]
+[2016-12-25 16:39:45] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Buddy" [R-GA-1]', 'Rep. Jeffries, Hakeem S. [D-NY-8]', 'Rep. Zeldin, Lee M. [R-N' at line 1
+Failed to save bill
+['H.R.6420', '114th Congress (2015-2016)', 'Screening With Dignity Act of 2016', 'Rep. Rice, Kathleen M. [D-NY-4]', 'House - Homeland Security', '12/01/2016 Referred to the House Committee on Homeland Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6420/cosponsors?r=115&amp;overview=closed#tabs']
+[2016-12-25 16:39:45] Now getting page  2 find one bill  H.R.6420 Sponsored by  Rep. Rice, Kathleen M. [D-NY-4]
+Bill saved
+['H.R.6419', '114th Congress (2015-2016)', 'Law Enforcement Inclusion Act of 2016', 'Rep. Lewis, John [D-GA-5]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6419/cosponsors?r=116&amp;overview=closed#tabs']
+[2016-12-25 16:39:46] Now getting page  2 find one bill  H.R.6419 Sponsored by  Rep. Lewis, John [D-GA-5]
+Bill saved
+['H.R.6418', '114th Congress (2015-2016)', 'Drinking Water Affordability Act of 2016', 'Rep. Latta, Robert E. [R-OH-5]', 'House - Energy and Commerce', '12/01/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6418/cosponsors?r=117&amp;overview=closed#tabs']
+[2016-12-25 16:39:46] Now getting page  2 find one bill  H.R.6418 Sponsored by  Rep. Latta, Robert E. [R-OH-5]
+Bill saved
+['H.R.6417', '114th Congress (2015-2016)', 'Fair Calculations in Civil Damages Act of 2016', 'Rep. Kennedy, Joseph P., III [D-MA-4]', 'House - Judiciary', '12/22/2016 Referred to the Subcommittee on the Constitution and Civil Justice.', 'https://www.congress.gov/bill/114th-congress/house-bill/6417/cosponsors?r=118&amp;overview=closed#tabs']
+[2016-12-25 16:39:46] Now getting page  2 find one bill  H.R.6417 Sponsored by  Rep. Kennedy, Joseph P., III [D-MA-4]
+[2016-12-25 16:39:46] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bobby" [D-VA-3]', 'Rep. Yarmuth, John A. [D-KY-3]']"," 114th Congress (2015-2016' at line 1
+Failed to save bill
+['H.R.6416', '114th Congress (2015-2016)', 'Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016', 'Rep. Roe, David P. [R-TN-1]', "House - Veterans' Affairs, Budget, Armed Services", '12/16/2016 Became Public Law No: 114-315.', 'https://www.congress.gov/bill/114th-congress/house-bill/6416/cosponsors?r=119&amp;overview=closed#tabs']
+[2016-12-25 16:39:47] Now getting page  2 find one bill  H.R.6416 Sponsored by  Rep. Roe, David P. [R-TN-1]
+Bill saved
+['H.R.6415', '114th Congress (2015-2016)', 'To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.', 'Rep. Miller, Candice S. [R-MI-10]', 'House - House Administration', '12/06/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6415/cosponsors?r=120&amp;overview=closed#tabs']
+[2016-12-25 16:39:48] Now getting page  2 find one bill  H.R.6415 Sponsored by  Rep. Miller, Candice S. [R-MI-10]
+Bill saved
+['H.R.6414', '114th Congress (2015-2016)', 'Crowdsourcing and Citizen Science Act of 2016', 'Rep. Tonko, Paul [D-NY-20]', 'House - Oversight and Government Reform', '11/30/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6414/cosponsors?r=121&amp;overview=closed#tabs']
+[2016-12-25 16:39:48] Now getting page  2 find one bill  H.R.6414 Sponsored by  Rep. Tonko, Paul [D-NY-20]
+Bill saved
+['H.R.6413', '114th Congress (2015-2016)', 'Big Oil Bailout Prevention Trust Fund Act of 2016', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Transportation and Infrastructure, Budget, Ways and Means', '11/30/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6413/cosponsors?r=122&amp;overview=closed#tabs']
+[2016-12-25 16:39:48] Now getting page  2 find one bill  H.R.6413 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6412', '114th Congress (2015-2016)', 'Big Oil Bailout Prevention Unlimited Liability Act of 2016', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Transportation and Infrastructure', '11/30/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6412/cosponsors?r=123&amp;overview=closed#tabs']
+[2016-12-25 16:39:49] Now getting page  2 find one bill  H.R.6412 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6411', '114th Congress (2015-2016)', 'Clean Water Protection Act', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Transportation and Infrastructure', '11/30/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6411/cosponsors?r=124&amp;overview=closed#tabs']
+[2016-12-25 16:39:49] Now getting page  2 find one bill  H.R.6411 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6410', '114th Congress (2015-2016)', 'To prohibit the commercial harvesting of Atlantic striped bass in the coastal waters and the exclusive economic zone.', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Natural Resources', '12/01/2016 Referred to the Subcommittee on Water, Power and Oceans.', 'https://www.congress.gov/bill/114th-congress/house-bill/6410/cosponsors?r=125&amp;overview=closed#tabs']
+[2016-12-25 16:39:49] Now getting page  2 find one bill  H.R.6410 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6409', '114th Congress (2015-2016)', 'SuperPAC Elimination Act of 2017', 'Rep. Meadows, Mark [R-NC-11]', 'House - House Administration', '11/30/2016 Referred to the House Committee on House Administration.', 'https://www.congress.gov/bill/114th-congress/house-bill/6409/cosponsors?r=126&amp;overview=closed#tabs']
+[2016-12-25 16:39:50] Now getting page  2 find one bill  H.R.6409 Sponsored by  Rep. Meadows, Mark [R-NC-11]
+Bill saved
+['H.R.6408', '114th Congress (2015-2016)', 'Building Efficiently Act of 2016', 'Rep. Langevin, James R. [D-RI-2]', 'House - Ways and Means', '11/30/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6408/cosponsors?r=127&amp;overview=closed#tabs']
+[2016-12-25 16:39:50] Now getting page  2 find one bill  H.R.6408 Sponsored by  Rep. Langevin, James R. [D-RI-2]
+Bill saved
+['H.R.6407', '114th Congress (2015-2016)', 'VA Management Alignment Act of 2016', 'Rep. Kilmer, Derek [D-WA-6]', "House - Veterans' Affairs", '11/30/2016 Referred to the Subcommittee on Economic Opportunity.', 'https://www.congress.gov/bill/114th-congress/house-bill/6407/cosponsors?r=128&amp;overview=closed#tabs']
+[2016-12-25 16:39:50] Now getting page  2 find one bill  H.R.6407 Sponsored by  Rep. Kilmer, Derek [D-WA-6]
+Bill saved
+['H.R.6406', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the exclusion from gross income of discharge of qualified principal residence indebtedness.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/30/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6406/cosponsors?r=129&amp;overview=closed#tabs']
+[2016-12-25 16:39:51] Now getting page  2 find one bill  H.R.6406 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6405', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the exclusion from gross income of discharge of qualified principal residence indebtedness.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/30/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6405/cosponsors?r=130&amp;overview=closed#tabs']
+[2016-12-25 16:39:51] Now getting page  2 find one bill  H.R.6405 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6404', '114th Congress (2015-2016)', 'Medicare Home Health Flexibility Act of 2016', 'Rep. Boustany, Charles W., Jr. [R-LA-3]', 'House - Ways and Means, Energy and Commerce', '11/30/2016 Referred to House Energy and Commerce', 'https://www.congress.gov/bill/114th-congress/house-bill/6404/cosponsors?r=131&amp;overview=closed#tabs']
+[2016-12-25 16:39:51] Now getting page  2 find one bill  H.R.6404 Sponsored by  Rep. Boustany, Charles W., Jr. [R-LA-3]
+Bill saved
+['H.R.6403', '114th Congress (2015-2016)', 'CORE Act', 'Rep. Jenkins, Evan H. [R-WV-3]', 'House - Ways and Means', '11/30/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6403/cosponsors?r=132&amp;overview=closed#tabs']
+[2016-12-25 16:39:52] Now getting page  2 find one bill  H.R.6403 Sponsored by  Rep. Jenkins, Evan H. [R-WV-3]
+Bill saved
+['H.R.6402', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 to avoid duplicative annual reporting, and for other purposes.', 'Rep. Sanchez, Linda T. [D-CA-38]', 'House - Ways and Means, Education and the Workforce', '11/29/2016 Referred to House Education and the Workforce', 'https://www.congress.gov/bill/114th-congress/house-bill/6402/cosponsors?r=133&amp;overview=closed#tabs']
+[2016-12-25 16:39:52] Now getting page  2 find one bill  H.R.6402 Sponsored by  Rep. Sanchez, Linda T. [D-CA-38]
+Bill saved
+['H.R.6401', '114th Congress (2015-2016)', 'Northern Mariana Islands Economic Expansion Act', 'Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]', 'House - Natural Resources, Judiciary', '12/07/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6401/cosponsors?r=134&amp;overview=closed#tabs']
+[2016-12-25 16:39:52] Now getting page  2 find one bill  H.R.6401 Sponsored by  Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]
+Bill saved
+['H.R.6400', '114th Congress (2015-2016)', 'To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in New Jersey.', 'Rep. Pallone, Frank, Jr. [D-NJ-6]', 'House - Natural Resources', '12/16/2016 Became Public Law No: 114-314.', 'https://www.congress.gov/bill/114th-congress/house-bill/6400/cosponsors?r=135&amp;overview=closed#tabs']
+[2016-12-25 16:39:53] Now getting page  2 find one bill  H.R.6400 Sponsored by  Rep. Pallone, Frank, Jr. [D-NJ-6]
+Bill saved
+['H.R.6399', '114th Congress (2015-2016)', 'Fixing Medicare Hospital Payments Act of 2016', 'Rep. Kelly, Mike [R-PA-3]', 'House - Ways and Means', '11/29/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6399/cosponsors?r=136&amp;overview=closed#tabs']
+[2016-12-25 16:39:53] Now getting page  2 find one bill  H.R.6399 Sponsored by  Rep. Kelly, Mike [R-PA-3]
+Bill saved
+['H.R.6398', '114th Congress (2015-2016)', "To amend the Small Business Act to provide for the inclusion of unmarried women in the criteria for awarding a grant to a women's business center.", 'Rep. Israel, Steve [D-NY-3]', 'House - Small Business', '11/29/2016 Referred to the House Committee on Small Business.', 'https://www.congress.gov/bill/114th-congress/house-bill/6398/cosponsors?r=137&amp;overview=closed#tabs']
+[2016-12-25 16:39:53] Now getting page  2 find one bill  H.R.6398 Sponsored by  Rep. Israel, Steve [D-NY-3]
+Bill saved
+['H.R.6397', '114th Congress (2015-2016)', 'Protection of Military Airfields from Wind Turbine Encroachment Act', 'Rep. Collins, Chris [R-NY-27]', 'House - Ways and Means', '11/29/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6397/cosponsors?r=138&amp;overview=closed#tabs']
+[2016-12-25 16:39:54] Now getting page  2 find one bill  H.R.6397 Sponsored by  Rep. Collins, Chris [R-NY-27]
+Bill saved
+['H.R.6396', '114th Congress (2015-2016)', 'Retirement Security for American Workers Act', 'Rep. Buchanan, Vern [R-FL-16]', 'House - Education and the Workforce, Ways and Means', '11/29/2016 Referred to House Ways and Means', 'https://www.congress.gov/bill/114th-congress/house-bill/6396/cosponsors?r=139&amp;overview=closed#tabs']
+[2016-12-25 16:39:54] Now getting page  2 find one bill  H.R.6396 Sponsored by  Rep. Buchanan, Vern [R-FL-16]
+Bill saved
+['H.R.6395', '114th Congress (2015-2016)', 'ROSIE Act', 'Rep. Hudson, Richard [R-NC-8]', 'House - Ways and Means', '11/29/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6395/cosponsors?r=140&amp;overview=closed#tabs']
+[2016-12-25 16:39:54] Now getting page  2 find one bill  H.R.6395 Sponsored by  Rep. Hudson, Richard [R-NC-8]
+Bill saved
+['H.R.6394', '114th Congress (2015-2016)', 'Improving Broadband Access for Veterans Act of 2016', 'Rep. McNerney, Jerry [D-CA-9]', 'House - Energy and Commerce', '12/07/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6394/cosponsors?r=141&amp;overview=closed#tabs']
+[2016-12-25 16:39:55] Now getting page  2 find one bill  H.R.6394 Sponsored by  Rep. McNerney, Jerry [D-CA-9]
+Bill saved
+['H.R.6393', '114th Congress (2015-2016)', 'Intelligence Authorization Act for Fiscal Year 2017', 'Rep. Nunes, Devin [R-CA-22]', 'House - Intelligence (Permanent)', '12/01/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6393/cosponsors?r=142&amp;overview=closed#tabs']
+[2016-12-25 16:39:55] Now getting page  2 find one bill  H.R.6393 Sponsored by  Rep. Nunes, Devin [R-CA-22]
+Bill saved
+['H.R.6392', '114th Congress (2015-2016)', 'Systemic Risk Designation Improvement Act of 2016', 'Rep. Luetkemeyer, Blaine [R-MO-3]', 'House - Financial Services', '12/05/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6392/cosponsors?r=143&amp;overview=closed#tabs']
+[2016-12-25 16:39:55] Now getting page  2 find one bill  H.R.6392 Sponsored by  Rep. Luetkemeyer, Blaine [R-MO-3]
+Bill saved
+['H.R.6391', '114th Congress (2015-2016)', 'Systemic Risk Designation Improvement Act of 2016', 'Rep. Luetkemeyer, Blaine [R-MO-3]', 'House - Financial Services', '11/18/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6391/cosponsors?r=144&amp;overview=closed#tabs']
+[2016-12-25 16:39:56] Now getting page  2 find one bill  H.R.6391 Sponsored by  Rep. Luetkemeyer, Blaine [R-MO-3]
+Bill saved
+['H.R.6390', '114th Congress (2015-2016)', 'Systemic Risk Designation Improvement Act of 2016', 'Rep. Luetkemeyer, Blaine [R-MO-3]', 'House - Financial Services', '11/18/2016 Referred to the House Committee on Financial Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6390/cosponsors?r=145&amp;overview=closed#tabs']
+[2016-12-25 16:39:56] Now getting page  2 find one bill  H.R.6390 Sponsored by  Rep. Luetkemeyer, Blaine [R-MO-3]
+Bill saved
+['H.R.6389', '114th Congress (2015-2016)', 'Taylor Force Act', 'Rep. Lamborn, Doug [R-CO-5]', 'House - Foreign Affairs', '11/18/2016 Referred to the House Committee on Foreign Affairs.', 'https://www.congress.gov/bill/114th-congress/house-bill/6389/cosponsors?r=146&amp;overview=closed#tabs']
+[2016-12-25 16:39:56] Now getting page  2 find one bill  H.R.6389 Sponsored by  Rep. Lamborn, Doug [R-CO-5]
+Bill saved
+['H.R.6388', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for mortgage insurance premiums treated as interest.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6388/cosponsors?r=147&amp;overview=closed#tabs']
+[2016-12-25 16:39:57] Now getting page  2 find one bill  H.R.6388 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6387', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for mortgage insurance premiums treated as interest.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6387/cosponsors?r=148&amp;overview=closed#tabs']
+[2016-12-25 16:39:57] Now getting page  2 find one bill  H.R.6387 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6386', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for qualified fuel cell property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6386/cosponsors?r=149&amp;overview=closed#tabs']
+[2016-12-25 16:39:57] Now getting page  2 find one bill  H.R.6386 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6385', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for qualified fuel cell property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6385/cosponsors?r=150&amp;overview=closed#tabs']
+[2016-12-25 16:39:58] Now getting page  2 find one bill  H.R.6385 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6384', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for qualified microturbine property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6384/cosponsors?r=151&amp;overview=closed#tabs']
+[2016-12-25 16:39:58] Now getting page  2 find one bill  H.R.6384 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6383', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for qualified microturbine property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/18/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6383/cosponsors?r=152&amp;overview=closed#tabs']
+[2016-12-25 16:39:58] Now getting page  2 find one bill  H.R.6383 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6382', '114th Congress (2015-2016)', 'No Religious Registry Act', 'Rep. DelBene, Suzan K. [D-WA-1]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6382/cosponsors?r=153&amp;overview=closed#tabs']
+[2016-12-25 16:39:59] Now getting page  2 find one bill  H.R.6382 Sponsored by  Rep. DelBene, Suzan K. [D-WA-1]
+[2016-12-25 16:39:59] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bobby" [D-VA-3]', 'Rep. Schakowsky, Janice D. [D-IL-9]', 'Rep. Kilmer, Derek [D-' at line 1
+Failed to save bill
+['H.R.6381', '114th Congress (2015-2016)', 'DHS Reform and Improvement Act', 'Rep. McCaul, Michael T. [R-TX-10]', 'House - Homeland Security, Foreign Affairs, Judiciary, Transportation and Infrastructure, Energy and Commerce, Agriculture, Oversight and Government Reform, Ways and Means, Science, Space, and Technology, Financial Services', '12/16/2016 Referred to the Subcommittee on Biotechnology, Horticulture, and Research.', 'https://www.congress.gov/bill/114th-congress/house-bill/6381/cosponsors?r=154&amp;overview=closed#tabs']
+[2016-12-25 16:40:02] Now getting page  2 find one bill  H.R.6381 Sponsored by  Rep. McCaul, Michael T. [R-TX-10]
+Bill saved
+['H.R.6380', '114th Congress (2015-2016)', 'American Law Enforcement Heroes Act of 2016', 'Rep. Hurd, Will [R-TX-23]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6380/cosponsors?r=155&amp;overview=closed#tabs']
+[2016-12-25 16:40:03] Now getting page  2 find one bill  H.R.6380 Sponsored by  Rep. Hurd, Will [R-TX-23]
+Bill saved
+['H.R.6379', '114th Congress (2015-2016)', 'For the relief of Lance N. Armstrong.', 'Rep. Hultgren, Randy [R-IL-14]', 'House - Transportation and Infrastructure', '11/17/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6379/cosponsors?r=156&amp;overview=closed#tabs']
+[2016-12-25 16:40:03] Now getting page  2 find one bill  H.R.6379 Sponsored by  Rep. Hultgren, Randy [R-IL-14]
+Bill saved
+['H.R.6378', '114th Congress (2015-2016)', 'PATH Fairness Act of 2016', 'Rep. Welch, Peter [D-VT-At Large]', 'House - Energy and Commerce', '11/17/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6378/cosponsors?r=157&amp;overview=closed#tabs']
+[2016-12-25 16:40:03] Now getting page  2 find one bill  H.R.6378 Sponsored by  Rep. Welch, Peter [D-VT-At Large]
+Bill saved
+['H.R.6377', '114th Congress (2015-2016)', 'National Guard Bonus Repayment and Financial Relief Act', 'Rep. Schiff, Adam B. [D-CA-28]', 'House - Armed Services', '11/17/2016 Referred to the House Committee on Armed Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6377/cosponsors?r=158&amp;overview=closed#tabs']
+[2016-12-25 16:40:04] Now getting page  2 find one bill  H.R.6377 Sponsored by  Rep. Schiff, Adam B. [D-CA-28]
+Bill saved
+['H.R.6376', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to modify the energy efficient commercial buildings deduction, and for other purposes.', 'Rep. Reichert, David G. [R-WA-8]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6376/cosponsors?r=159&amp;overview=closed#tabs']
+[2016-12-25 16:40:04] Now getting page  2 find one bill  H.R.6376 Sponsored by  Rep. Reichert, David G. [R-WA-8]
+Bill saved
+['H.R.6375', '114th Congress (2015-2016)', 'Power And Security Systems (PASS) Act', 'Rep. Pompeo, Mike [R-KS-4]', 'House - Energy and Commerce', '12/07/2016 Received in the Senate.', 'https://www.congress.gov/bill/114th-congress/house-bill/6375/cosponsors?r=160&amp;overview=closed#tabs']
+[2016-12-25 16:40:04] Now getting page  2 find one bill  H.R.6375 Sponsored by  Rep. Pompeo, Mike [R-KS-4]
+Bill saved
+['H.R.6374', '114th Congress (2015-2016)', 'Recognizing Mayaguez Veterans Act', 'Rep. Meadows, Mark [R-NC-11]', 'House - Armed Services', '11/17/2016 Referred to the House Committee on Armed Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6374/cosponsors?r=161&amp;overview=closed#tabs']
+[2016-12-25 16:40:05] Now getting page  2 find one bill  H.R.6374 Sponsored by  Rep. Meadows, Mark [R-NC-11]
+Bill saved
+['H.R.6373', '114th Congress (2015-2016)', 'To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the "Specialist Jeffrey L. White, Jr. Post Office".', 'Rep. Luetkemeyer, Blaine [R-MO-3]', 'House - Oversight and Government Reform', '11/17/2016 Referred to the House Committee on Oversight and Government Reform.', 'https://www.congress.gov/bill/114th-congress/house-bill/6373/cosponsors?r=162&amp;overview=closed#tabs']
+[2016-12-25 16:40:05] Now getting page  2 find one bill  H.R.6373 Sponsored by  Rep. Luetkemeyer, Blaine [R-MO-3]
+[2016-12-25 16:40:05] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Specialist Jeffrey L. White, Jr. Post Office"."," Rep. Luetkemeyer, Blaine [R-MO' at line 1
+Failed to save bill
+['H.R.6372', '114th Congress (2015-2016)', 'Neighborhood Noise Barriers Act of 2016', 'Rep. Lewis, John [D-GA-5]', 'House - Transportation and Infrastructure', '11/17/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6372/cosponsors?r=163&amp;overview=closed#tabs']
+[2016-12-25 16:40:06] Now getting page  2 find one bill  H.R.6372 Sponsored by  Rep. Lewis, John [D-GA-5]
+Bill saved
+['H.R.6371', '114th Congress (2015-2016)', 'To authorize the President to award the Medal of Honor posthumously to Doris Miller for acts of valor during World War II while a member of the Navy.', 'Rep. Johnson, Eddie Bernice [D-TX-30]', 'House - Armed Services', '11/17/2016 Referred to the House Committee on Armed Services.', 'https://www.congress.gov/bill/114th-congress/house-bill/6371/cosponsors?r=164&amp;overview=closed#tabs']
+[2016-12-25 16:40:06] Now getting page  2 find one bill  H.R.6371 Sponsored by  Rep. Johnson, Eddie Bernice [D-TX-30]
+Bill saved
+['H.R.6370', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 for purposes of the tax on private foundation excess business holdings to treat as outstanding any employee-owned stock purchased by a business enterprise pursuant to certain employee stock ownership retirement plans.', 'Rep. Holding, George [R-NC-13]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6370/cosponsors?r=165&amp;overview=closed#tabs']
+[2016-12-25 16:40:06] Now getting page  2 find one bill  H.R.6370 Sponsored by  Rep. Holding, George [R-NC-13]
+Bill saved
+['H.R.6369', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for certain qualified film and television and live theatrical productions.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6369/cosponsors?r=166&amp;overview=closed#tabs']
+[2016-12-25 16:40:07] Now getting page  2 find one bill  H.R.6369 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6368', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the mine rescue team training credit.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6368/cosponsors?r=167&amp;overview=closed#tabs']
+[2016-12-25 16:40:07] Now getting page  2 find one bill  H.R.6368 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6367', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the mine rescue team training credit.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6367/cosponsors?r=168&amp;overview=closed#tabs']
+[2016-12-25 16:40:07] Now getting page  2 find one bill  H.R.6367 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6366', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for energy efficient new homes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6366/cosponsors?r=169&amp;overview=closed#tabs']
+[2016-12-25 16:40:08] Now getting page  2 find one bill  H.R.6366 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6365', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for energy efficient new homes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6365/cosponsors?r=170&amp;overview=closed#tabs']
+[2016-12-25 16:40:08] Now getting page  2 find one bill  H.R.6365 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6364', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for certain qualified film and television and live theatrical productions.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6364/cosponsors?r=171&amp;overview=closed#tabs']
+[2016-12-25 16:40:08] Now getting page  2 find one bill  H.R.6364 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6363', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the Indian employment credit.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6363/cosponsors?r=172&amp;overview=closed#tabs']
+[2016-12-25 16:40:09] Now getting page  2 find one bill  H.R.6363 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6362', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the Indian employment credit.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6362/cosponsors?r=173&amp;overview=closed#tabs']
+[2016-12-25 16:40:09] Now getting page  2 find one bill  H.R.6362 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6361', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for energy efficient commercial buildings.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6361/cosponsors?r=174&amp;overview=closed#tabs']
+[2016-12-25 16:40:09] Now getting page  2 find one bill  H.R.6361 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6360', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for energy efficient commercial buildings.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6360/cosponsors?r=175&amp;overview=closed#tabs']
+[2016-12-25 16:40:10] Now getting page  2 find one bill  H.R.6360 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6359', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for biodiesel and renewable diesel used as fuel.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6359/cosponsors?r=176&amp;overview=closed#tabs']
+[2016-12-25 16:40:11] Now getting page  2 find one bill  H.R.6359 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6358', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for biodiesel and renewable diesel used as fuel.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6358/cosponsors?r=177&amp;overview=closed#tabs']
+[2016-12-25 16:40:11] Now getting page  2 find one bill  H.R.6358 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6357', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for alternative fuel vehicle refueling property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6357/cosponsors?r=178&amp;overview=closed#tabs']
+[2016-12-25 16:40:12] Now getting page  2 find one bill  H.R.6357 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6356', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for alternative fuel vehicle refueling property.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6356/cosponsors?r=179&amp;overview=closed#tabs']
+[2016-12-25 16:40:12] Now getting page  2 find one bill  H.R.6356 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6355', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for energy-efficient existing homes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6355/cosponsors?r=180&amp;overview=closed#tabs']
+[2016-12-25 16:40:13] Now getting page  2 find one bill  H.R.6355 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6354', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the above-the-line deduction for qualified tuition and related expenses.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6354/cosponsors?r=181&amp;overview=closed#tabs']
+[2016-12-25 16:40:13] Now getting page  2 find one bill  H.R.6354 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6353', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for new qualified fuel cell motor vehicles.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6353/cosponsors?r=182&amp;overview=closed#tabs']
+[2016-12-25 16:40:13] Now getting page  2 find one bill  H.R.6353 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6352', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the above-the-line deduction for qualified tuition and related expenses.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6352/cosponsors?r=183&amp;overview=closed#tabs']
+[2016-12-25 16:40:13] Now getting page  2 find one bill  H.R.6352 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6351', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for one year the credit for new qualified fuel cell motor vehicles.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6351/cosponsors?r=184&amp;overview=closed#tabs']
+[2016-12-25 16:40:14] Now getting page  2 find one bill  H.R.6351 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6350', '114th Congress (2015-2016)', 'To amend the Internal Revenue Code of 1986 to extend for two years the credit for energy-efficient existing homes.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Ways and Means', '11/17/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6350/cosponsors?r=185&amp;overview=closed#tabs']
+[2016-12-25 16:40:14] Now getting page  2 find one bill  H.R.6350 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6349', '114th Congress (2015-2016)', 'None of the Above Act', 'Rep. Grayson, Alan [D-FL-9]', 'House - House Administration', '11/17/2016 Referred to the House Committee on House Administration.', 'https://www.congress.gov/bill/114th-congress/house-bill/6349/cosponsors?r=186&amp;overview=closed#tabs']
+[2016-12-25 16:40:14] Now getting page  2 find one bill  H.R.6349 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6348', '114th Congress (2015-2016)', 'To extend for two years the program for priority review to encourage treatments for rare pediatric diseases.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Energy and Commerce', '11/17/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6348/cosponsors?r=187&amp;overview=closed#tabs']
+[2016-12-25 16:40:15] Now getting page  2 find one bill  H.R.6348 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6347', '114th Congress (2015-2016)', 'To extend for one year the program for priority review to encourage treatments for rare pediatric diseases.', 'Rep. Grayson, Alan [D-FL-9]', 'House - Energy and Commerce', '11/17/2016 Referred to the House Committee on Energy and Commerce.', 'https://www.congress.gov/bill/114th-congress/house-bill/6347/cosponsors?r=188&amp;overview=closed#tabs']
+[2016-12-25 16:40:15] Now getting page  2 find one bill  H.R.6347 Sponsored by  Rep. Grayson, Alan [D-FL-9]
+Bill saved
+['H.R.6346', '114th Congress (2015-2016)', 'NO HATE Act of 2016', 'Rep. Beyer, Donald S., Jr. [D-VA-8]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6346/cosponsors?r=189&amp;overview=closed#tabs']
+[2016-12-25 16:40:16] Now getting page  2 find one bill  H.R.6346 Sponsored by  Rep. Beyer, Donald S., Jr. [D-VA-8]
+[2016-12-25 16:40:16] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hank," Jr. [D-GA-4]*', 'Rep. McCollum, Betty [D-MN-4]*', 'Rep. Norton, Eleanor H' at line 1
+Failed to save bill
+['H.R.6345', '114th Congress (2015-2016)', 'TPS Reform Act of 2016', 'Rep. Brooks, Mo [R-AL-5]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Immigration and Border Security.', 'https://www.congress.gov/bill/114th-congress/house-bill/6345/cosponsors?r=190&amp;overview=closed#tabs']
+[2016-12-25 16:40:16] Now getting page  2 find one bill  H.R.6345 Sponsored by  Rep. Brooks, Mo [R-AL-5]
+Bill saved
+['H.R.6344', '114th Congress (2015-2016)', 'To authorize the Secretary of the Interior to convey certain Federal land in Mohave County, Arizona, to qualified entities and for other purposes.', 'Rep. Gosar, Paul A. [R-AZ-4]', 'House - Natural Resources', '11/22/2016 Referred to the Subcommittee on Federal Lands.', 'https://www.congress.gov/bill/114th-congress/house-bill/6344/cosponsors?r=191&amp;overview=closed#tabs']
+[2016-12-25 16:40:17] Now getting page  2 find one bill  H.R.6344 Sponsored by  Rep. Gosar, Paul A. [R-AZ-4]
+Bill saved
+['H.R.6343', '114th Congress (2015-2016)', 'Farmers Markets for Food Deserts Act of 2016', 'Rep. Veasey, Marc A. [D-TX-33]', 'House - Ways and Means, Agriculture', '12/09/2016 Referred to the Subcommittee on Biotechnology, Horticulture, and Research.', 'https://www.congress.gov/bill/114th-congress/house-bill/6343/cosponsors?r=192&amp;overview=closed#tabs']
+[2016-12-25 16:40:17] Now getting page  2 find one bill  H.R.6343 Sponsored by  Rep. Veasey, Marc A. [D-TX-33]
+Bill saved
+['H.R.6342', '114th Congress (2015-2016)', 'Traveling Exotic Animal and Public Safety Protection Act', 'Rep. Grijalva, Raul M. [D-AZ-3]', 'House - Agriculture', '12/09/2016 Referred to the Subcommittee on Livestock and Foreign Agriculture.', 'https://www.congress.gov/bill/114th-congress/house-bill/6342/cosponsors?r=193&amp;overview=closed#tabs']
+[2016-12-25 16:40:17] Now getting page  2 find one bill  H.R.6342 Sponsored by  Rep. Grijalva, Raul M. [D-AZ-3]
+Bill saved
+['H.R.6341', '114th Congress (2015-2016)', 'Review the Rule Act of 2016', 'Rep. Poe, Ted [R-TX-2]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6341/cosponsors?r=194&amp;overview=closed#tabs']
+[2016-12-25 16:40:18] Now getting page  2 find one bill  H.R.6341 Sponsored by  Rep. Poe, Ted [R-TX-2]
+Bill saved
+['H.R.6340', '114th Congress (2015-2016)', 'Presidential Accountability Act', 'Rep. Clark, Katherine M. [D-MA-5]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.', 'https://www.congress.gov/bill/114th-congress/house-bill/6340/cosponsors?r=195&amp;overview=closed#tabs']
+[2016-12-25 16:40:18] Now getting page  2 find one bill  H.R.6340 Sponsored by  Rep. Clark, Katherine M. [D-MA-5]
+[2016-12-25 16:40:18] data insertion failed because 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Hank," Jr. [D-GA-4]', 'Rep. Clarke, Yvette D. [D-NY-9]', 'Rep. Castro, Joaquin [' at line 1
+Failed to save bill
+['H.R.6339', '114th Congress (2015-2016)', 'To limit the use of the Judgement Fund to settle any lawsuit arising under section 1342 of the Patient Protection and Affordable Care Act, and for other purposes.', 'Rep. Griffith, H. Morgan [R-VA-9]', 'House - Judiciary', '12/05/2016 Referred to the Subcommittee on the Constitution and Civil Justice.', 'https://www.congress.gov/bill/114th-congress/house-bill/6339/cosponsors?r=196&amp;overview=closed#tabs']
+[2016-12-25 16:40:18] Now getting page  2 find one bill  H.R.6339 Sponsored by  Rep. Griffith, H. Morgan [R-VA-9]
+Bill saved
+['H.R.6338', '114th Congress (2015-2016)', 'OPEN Act', 'Rep. Cartwright, Matt [D-PA-17]', 'House - Ways and Means, House Administration', '11/17/2016 Referred to House Administration', 'https://www.congress.gov/bill/114th-congress/house-bill/6338/cosponsors?r=197&amp;overview=closed#tabs']
+[2016-12-25 16:40:19] Now getting page  2 find one bill  H.R.6338 Sponsored by  Rep. Cartwright, Matt [D-PA-17]
+Bill saved
+['H.R.6337', '114th Congress (2015-2016)', 'To amend title 49, United States Code, with respect to the definition of urbanized area, and for other purposes.', 'Rep. Weber, Randy K., Sr. [R-TX-14]', 'House - Transportation and Infrastructure', '11/17/2016 Referred to the House Committee on Transportation and Infrastructure.', 'https://www.congress.gov/bill/114th-congress/house-bill/6337/cosponsors?r=198&amp;overview=closed#tabs']
+[2016-12-25 16:40:19] Now getting page  2 find one bill  H.R.6337 Sponsored by  Rep. Weber, Randy K., Sr. [R-TX-14]
+Bill saved
+['H.R.6336', '114th Congress (2015-2016)', 'B-CROP Act of 2016', 'Rep. Pocan, Mark [D-WI-2]', 'House - Agriculture, Energy and Commerce', '12/09/2016 Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.', 'https://www.congress.gov/bill/114th-congress/house-bill/6336/cosponsors?r=199&amp;overview=closed#tabs']
+[2016-12-25 16:40:20] Now getting page  2 find one bill  H.R.6336 Sponsored by  Rep. Pocan, Mark [D-WI-2]
+Bill saved
+['H.R.6335', '114th Congress (2015-2016)', 'Retirement Security Preservation Act of 2016', 'Rep. Tiberi, Patrick J. [R-OH-12]', 'House - Ways and Means', '11/16/2016 Referred to the House Committee on Ways and Means.', 'https://www.congress.gov/bill/114th-congress/house-bill/6335/cosponsors?r=200&amp;overview=closed#tabs']
+[2016-12-25 16:40:20] Now getting page  2 find one bill  H.R.6335 Sponsored by  Rep. Tiberi, Patrick J. [R-OH-12]
+Bill saved
