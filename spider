@@ -1,0 +1,134 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+#python 2.7
+
+import sys
+#sys.path.append('Documents/Congress_Sipder')
+import urllib
+import urllib2
+import re
+import time
+import types
+import page
+import mysqldb
+from bs4 import BeautifulSoup
+
+class Spider:
+	
+	def __init__(self):
+		self.page_num = 1
+		self.total_num = None
+		self.page_spider = Page()
+		self.mysqldb = Mysqldb()
+		self.user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0'
+		self.headers = {'User-Agent':self.user_agent}
+
+	def getCurrentTime(self):
+		return time.strftime('[%Y-%m-%d %H:%M:%S]',time.localtime(time.time()))
+
+	def getCurrentDate(self):
+		return time.strftime('%Y-%m-%d',time.localtime(time.time()))
+
+	def getPageURLbyNum(self, page_num):
+		page_url = 'https://www.congress.gov/search?q={%22source%22:%22legislation%22}&page='+str(page_num)
+		return page_url
+
+	def getPagebyNum(self, page_num):
+		request = urllib2.Request(self.getPageURLbyNum(page_num),headers=self.headers)
+		try:
+			response = urllib2.urlopen(request)
+		except urllib2.URLError, e:
+			if hasattr(e,"code"):
+				print self.getCurrentTime(), u"Failed to load the page, Error: ", e.code
+				return None
+			if hasattr(e, "reason"):
+				print self.getCurrentTime(), u"Failed to laod the page, because: ", e.reason
+				return None
+		else:
+			page = response.read().decode('utf-8')
+			return page
+
+	def getTotalPageNum(self):
+		print self.getCurrentTime(), "Getting the page number, please wait..."
+		page = self.getPagebyNum(1)
+		pattern = re.compile('<div class="basic-search-tune-number nav-pagination-bottom.*?<span class="results-number">.*?<strong>.*?1-100.*?</strong>.*?of(.*?)</span>',re.S)
+		match = re.search(pattern, page)
+		if match:
+			return match.group(1).strip()
+		else:
+			print self.getCurrentTime(), "Failed to get the total page number"
+
+	def getLegitInfo(self, legit):
+		if not type(legit) is types.StringType:
+			legit = str(legit)
+		pattern = re.compile(u'<span class="result-heading">(.*?)</a>(.*?)</span>.*?<span class="result-title">(.*?)</span>.*?<a href.*? target="_blank">(.*?)</a>.*?<strong>Cosponsors:</strong>.*?\((.*?)\).*?<strong>Committees:</strong>(.*?)</span>.*?<strong>.*?Latest Action:.*?</strong>(.*?)\(', re.S)
+		match = re.search(pattern, legit)
+		remove = re.compile('<a.*?>|</a>')
+		remove2 = re.compile('<span>')
+		remove3 = re.compile('<a href="|".*?</a>')
+		remove4 = re.compile(r'\xe2\x80\x94')
+		if match:
+			legitcode = re.sub(remove,'',match.group(1)).strip()
+			legistor = re.sub(remove4,'',match.group(2)).strip()
+			legitname = match.group(3).strip()
+			sponsor = match.group(4).strip()
+			link = re.sub(remove3,'',match.group(5)).strip()
+			committee = match.group(6).strip()
+			status = re.sub(remove2,'',match.group(7)).strip()
+			return [legitcode, legistor, legitname, sponsor, committee, status,link]
+		else:
+			return None
+
+	def getLegit(self, page_num):
+		page = self.getPagebyNum(page_num)
+		soup = BeautifulSoup(page,"lxml")
+		legits = soup.select("div.col2_lg.basic-search-results.nav-on ol li.expanded")
+		for legit in legits:
+			info = self.getLegitInfo(legit)
+			if info:
+				#get url of the co-sponsor
+				url = info[6]
+				cosponsor = self.get_spider.getCosponsor(url)
+				print self.getCurrentTime(), "Now getting page ", page_num, "find one bill ", info[0], "Sponsored by ", info[3]
+				bill_dict = {"code":info[0], "congress":info[1], "bill":info[2], "sponsor":info[3], "committees":info[4], "cosponsor":cosponsor, "status":info[5]}
+				if self.mysqldb.insertData("congress_data", bill_dict):
+					print "Bill saved"
+				else:
+					print "Failed to save bill"
+
+	def main(self):
+		f_handler = open('sipder.log','w')
+		sys.stdout = f_handler
+		page = open('pagesaved','r')
+		content = page.readlines()
+		if content:
+			start_page = int(content[-1].strip()[-1])
+		else:
+			start_page = 1
+		page.close()
+		print self.getCurrentTime(), "start page", start_page
+		print self.getCurrentTime(), "Congress Sipder is working to get information from Congress..."
+		self.total_num = self.getTotalPageNum()
+		print self.getCurrentTime(), "Get page number", self.total_num
+	        total_page = self.total_num
+		for x in range(start_page,total_page+1):
+			print self.getCurrentTime(), "now scraping page ", x	
+			try:
+				self.getLegit(x)
+			except urllib2.URLError, e:
+				if hasattr(e, "reason"):
+					print "Failed to scrape the web, Error: ", e.reason
+			except Exception, e:
+				print "Failed to scrape the web, Error: ", e
+			if x < total_page:
+				f = open('pagesaved.txt','w')
+				f.write(str(x))
+				print "writing a new page: ", x
+				f.close()
+
+spider = Spider()
+spider.main()
+
+
+
+

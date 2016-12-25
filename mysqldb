@@ -1,0 +1,41 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+#python 2.7
+
+import MySQLdb
+import time
+
+class Mysqldb:
+
+	def getCurrentTime(self):
+		return time.strftime('[%Y-%m-%d %H:%M:%S]',time.localtime(time.time()))
+
+	def __init__(self):
+		try:
+			self.db = MySQLdb.connect('127.0.0.1', 'root', 'psw', 'congressdb')
+			self.cur = self.db.cursor()
+		except MySQLdb.Error, e:
+			print self.getCurrentTime(), "Timeout connecting to the database because %d: %s" % (e.args[0], e.args[1])
+
+	def insertData(self, table, my_dict):
+		try:
+			self.db.set_character_set('utf8')
+			cols = ', '.join(my_dict.keys())
+			values = '"," '.join(my_dict.values())
+			sql = "INSERT INTO %s (%s) VALUES (%s)" % (table, cols, '"'+values+'"')
+			try:
+				result = self.cur.execute(sql)
+				insert_id = self.db.insert_id()
+				self.db.commit()
+				if result:
+					return insert_id
+				else:
+					return 0
+			except MySQLdb.Error, e:
+				self.db.rollback()
+				if "key 'PRIMARY'" in e.args[1]:
+					print self.getCurrentTime(), "data already exist, insertion aborted"
+				else:
+					print self.getCurrentTime(), "data insertion failed because %d: %s" % (e.args[0], e.args[1])
+		except MySQLdb.Error, e:
+			print self.getCurrentTime(), "database failure because %d: %s" % (e.args[0], e.args[1])

@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+#python 2.7
+import urllib
+import urllib2
+import re
+import time
+import types
+from bs4 import BeautifulSoup
+
+class Page:
+	
+	def __init__(self):
+		self.user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0'
+		self.headers = {'User-Agent':self.user_agent}
+
+	def getPagebyURL(self,url):
+		try:
+			request = urllib2.Request(url,headers=self.headers)
+			response = urllib2.urlopen(request)
+			return response.read().decode('utf-8')
+		except urllib2.URLError, e:
+			if hasattr(e, "code"):
+				print "Failed to load page, Error: ", e.code
+				return None
+			if hasattr(e, "reason"):
+				print "Failed to get page because: ", e.reason
+				return None
+
+	def getCosponsor(self,url):
+		page = self.getPagebyURL(url)
+		soup = BeautifulSoup(page,"lxml")
+		cosponsor = soup.select("div.col2_lg.basic-search-results.nav-on table.item_table tbody td.actions a")
+		cosname = []
+		remove = re.compile('<a.*?>|</a>')
+		if cosponsor:
+			for co in cosponsor:
+				cosname.append(re.sub(remove,'',str(co)).strip())
+		else:
+			cosname.append('null')
+		return str(cosname)
+
+page = Page()
+page.getCosponsor(None)
