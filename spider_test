@@ -35,12 +35,13 @@ class Page:
 		soup = BeautifulSoup(page,"lxml")
 		cosponsor = soup.select("div.col2_lg.basic-search-results.nav-on table.item_table tbody td.actions a")
 		cosname = []
-		remove = re.compile('<a.*?>|</a>')
+		remove = re.compile('<a.*?>|[\"]|[\']|[*]</a>')
 		if cosponsor:
 			for co in cosponsor:
 				cosname.append(re.sub(remove,'',str(co)).strip())
 		else:
 			cosname.append('null')
+		#print str(cosname)
 		return str(cosname)
 
 
@@ -99,7 +100,7 @@ class Spider:
 		return time.strftime('%Y-%m-%d',time.localtime(time.time()))
 
 	def getPageURLbyNum(self, page_num):
-		page_url = 'https://www.congress.gov/search?q={%22source%22:%22legislation%22}&page='+str(page_num)
+		page_url = 'https://www.congress.gov/search?q={%22source%22:%22legislation%22,%22type%22:%22bills%22}&page='+str(page_num)
 		return page_url
 
 	def getPagebyNum(self, page_num):
@@ -140,8 +141,8 @@ class Spider:
 		if match:
 			legitcode = re.sub(remove,'',match.group(1)).strip()
 			legistor = re.sub(remove4,'',match.group(2)).strip()
-			legitname = match.group(3).strip()
-			sponsor = match.group(4).strip()
+			legitname = re.sub('[\"\'*]','',match.group(3)).strip()
+			sponsor = re.sub('[\"\'*]','',match.group(4)).strip()
 			link = re.sub(remove3,'',match.group(5)).strip()
 			committee = match.group(6).strip()
 			status = re.sub(remove2,'',match.group(7)).strip()
@@ -155,14 +156,15 @@ class Spider:
 		legits = soup.select("div.col2_lg.basic-search-results.nav-on ol li.expanded")
 		for legit in legits:
 			info = self.getLegitInfo(legit)
-			print info
+			#print info
 			if info:
 				#get url of the co-sponsor
 				url = info[6]
 				cosponsor = self.page_spider.getCosponsor(url)
 				print self.getCurrentTime(), "Now getting page ", page_num, "find one bill ", info[0], "Sponsored by ", info[3]
 				bill_dict = {"code":info[0], "congress":info[1], "bill":info[2], "sponsor":info[3], "committees":info[4], "cosponsor":cosponsor, "status":info[5]}
-				if self.mysqldb.insertData("congress_data2", bill_dict):
+				#print bill_dict
+				if self.mysqldb.insertData("congress_data3", bill_dict):
 					print "Bill saved"
 				else:
 					print "Failed to save bill"
@@ -178,7 +180,7 @@ class Spider:
 		self.total_num = self.getTotalPageNum()
 		print self.getCurrentTime(), "Get page number", self.total_num
 		
-		total_num = 3
+		total_num = 12
 		for x in range(start_page,total_num):
 			print self.getCurrentTime(), "now scraping page ", x
 			try:
